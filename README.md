@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify">
 
 <h1>👋 Hi there</h1>
 Hello! My name is Marcone Rafael, and I'm a technology enthusiast passionate about Artificial Intelligence. I have a technical background in Informatics from IFRN, and I'm currently pursuing a degree in Information Technology at UFRN.
@@ -9,15 +9,16 @@ Feel free to reach out to me via email at marconerafael6@gmail.com or connect wi
 
 <h1>🚀 Expertise</h1>
 🎓Throughout my academic journey, I have been involved in academic projects since 2019. I have acquired various skills, including:
-
-Programming Languages: C, Python and JavaScript
-Data Processing: Pandas
-Web Development: Django, JavaScript, React, CSS, HTML, p5js
-Databases: MySQL
-Machine Learning and AI: TensorFlow, PyTorch
-Data Science: Data Analysis, Data Visualization
-Computational Modeling and Simulation
-Deep Neural Networks
+  <ul>
+<li>Programming Languages: C, Python and JavaScript</li>
+<li>Data Processing: Pandas</li>
+<li>Web Development: Django, JavaScript, React, CSS, HTML, p5js</li>
+<li>Databases: MySQL</li>
+<li>Machine Learning and AI: TensorFlow, PyTorch</li>
+<li>Data Science: Data Analysis, Data Visualization</li>
+<li>Computational Modeling and Simulation</li>
+<li>Deep Neural Network</li>
+  </ul>
 Recently, I started working as a technical support scholar at UFRN, where I have the opportunity to further enhance my skills through real-world projects.
 
 ✨In addition to Artificial Intelligence, I am also interested in Web Development, Machine Learning, and Data Science, always seeking to expand my knowledge in these areas.
