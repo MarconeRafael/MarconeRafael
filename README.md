@@ -14,7 +14,7 @@ Hello! My name is Marcone Rafael, and I'm a technology enthusiast passionate abo
 
 ⚡ Outside the world of technology, I practice Luta Sanda and regularly go to the gym, aiming to achieve a balance between mind and body.
 
-📬 Feel free to reach out to me via email at marconerafael6@gmail.com or connect with me on LinkedIn: [Marcone Rafael](https://www.linkedin.com/in/marconerafael/).
+📬 Feel free to reach out to me via email at marconerafael6@gmail.com or connect with me on LinkedIn: Marcone Rafael.
 
 Let's create something amazing together! ✨
 
