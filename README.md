@@ -1,7 +1,7 @@
 <div align="justify">
 
 <h1>👋 Hi there</h1>
-Hello! My name is Marcone Rafael, and I'm a technology enthusiast passionate about Artificial Intelligence. I have a technical background in Informatics from IFRN, and I'm currently pursuing a degree in Information Technology at UFRN.
+Hello! My name is Marcone Rafael, and I'm a technology enthusiast passionate about Artificial Intelligence. I have a technical background in Informatics from IFRN, and I'm currently pursuing a degree in Information Technology at UFRN. 
 
 Outside the world of technology, I practice Luta Sanda and regularly go to the gym, aiming to achieve a balance between mind and body.
 
