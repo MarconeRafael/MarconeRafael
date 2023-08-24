@@ -31,5 +31,5 @@ Recently, I started working as a technical support scholar at UFRN, where I have
 
 <h1>📊 GitHub Stats:</h1>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marconerafael&langs_count=8&theme=neon)</div> 
 
