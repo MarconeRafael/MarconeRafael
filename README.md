@@ -1,66 +1,62 @@
 # Hi, I'm Marcone Rafael
 
-**Python Software Engineer focused on Backend Engineering, Data Engineering, and Applied Machine Learning.**
+**Python Software Engineer | Backend | Data Engineering | Applied Machine Learning**
 
-I build data-driven applications, backend services, APIs, and machine learning solutions with Python, SQL, databases, and modern software engineering practices.
+I build backend services, data pipelines, APIs, and machine learning solutions with Python and SQL.
 
-My background combines software development, data, and applied AI, with experience working on business and industrial projects involving automation, APIs, data pipelines, NLP, predictive modeling, and AI-powered applications.
+My experience combines software engineering, data, and applied AI across business and industrial projects, including automation, data processing, predictive modeling, NLP, and AI-powered applications.
 
-## Core Stack
+## Core Skills
 
-**Backend & Programming**
+**Backend & Software Engineering**
 Python · FastAPI · Django · Flask · REST APIs · Node.js
 
-**Data & Databases**
-SQL · PostgreSQL · MySQL · Amazon Redshift · Pandas · NumPy · ETL · Data Pipelines · Data Warehousing
+**Data Engineering & Databases**
+SQL · PostgreSQL · MySQL · Pandas · NumPy · ETL · Data Pipelines · Data Warehousing
 
 **Machine Learning & AI**
 Scikit-learn · PyTorch · TensorFlow · Deep Learning · NLP · Predictive Modeling · Time Series · Feature Engineering
 
-**Engineering & Infrastructure**
+**Tools & Infrastructure**
 Docker · Git · Linux · AWS · GCP
 
-## What I Focus On
+## What I Build
 
-* Backend Engineering with Python
-* Data Engineering and automated data pipelines
-* Machine Learning Engineering and model integration
-* Applied AI and NLP
-* Building reliable, maintainable, and production-oriented systems
+* Backend applications and REST APIs
+* Data ingestion and transformation pipelines
+* Data-driven applications and services
+* Machine learning systems and model integration
+* Applied AI solutions for real-world problems
 
-## Portfolio
+## Engineering Approach
 
-I'm building projects that demonstrate the complete lifecycle of a data-driven system:
+I focus on building systems that go beyond isolated notebooks, combining:
 
 ```text
-Data Source / Public API
-        ↓
-Python Ingestion
-        ↓
+Data Sources
+    ↓
+Python
+    ↓
+Data Processing
+    ↓
 PostgreSQL
-        ↓
-Data Transformation
-        ↓
-Pipeline Orchestration
-        ↓
-Feature Engineering
-        ↓
+    ↓
 Machine Learning
-        ↓
+    ↓
 FastAPI
-        ↓
+    ↓
 Docker
-        ↓
-Cloud Deployment
+    ↓
+Deployment
 ```
 
-The goal is to go beyond notebooks and demonstrate software engineering, data engineering, machine learning, testing, API development, and deployment in complete end-to-end systems.
+My goal is to develop reliable, maintainable, and production-oriented software while applying data and machine learning where they provide practical value.
 
 ## Background
 
 * Bachelor’s Degree in Information Technology — UFRN
-* Applied research experience in Artificial Intelligence and Machine Learning
-* Professional experience with Python, data, backend systems, automation, and AI solutions
+* Professional experience in Python, backend development, data, automation, and AI
+* Applied research experience in Machine Learning and Computer Vision
 
 ## Open To
 
@@ -68,10 +64,12 @@ The goal is to go beyond notebooks and demonstrate software engineering, data en
 
 Open to **international opportunities and relocation**.
 
-## Connect
+## Projects
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/MarconeRafael)
+I'm building and refining projects that demonstrate real software engineering across backend development, data engineering, and machine learning.
 
 ---
 
-*I enjoy turning data, software, and machine learning into practical systems that solve real problems.*
+[LinkedIn](https://www.linkedin.com/in/marconerafael/) · [GitHub](https://github.com/MarconeRafael)
+
+*Building practical systems where software, data, and machine learning come together.*
