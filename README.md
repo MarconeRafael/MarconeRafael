@@ -64,9 +64,6 @@ My goal is to develop reliable, maintainable, and production-oriented software w
 
 Open to **international opportunities and relocation**.
 
-## Projects
-
-I'm building and refining projects that demonstrate real software engineering across backend development, data engineering, and machine learning.
 
 ---
 
