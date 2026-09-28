@@ -18,7 +18,7 @@ SQL · PostgreSQL · MySQL · Pandas · NumPy · ETL · Data Pipelines · Data W
 Scikit-learn · PyTorch · TensorFlow · Deep Learning · NLP · Predictive Modeling · Time Series · Feature Engineering
 
 **Tools & Infrastructure**
-Docker · Git · Linux · AWS · GCP
+Docker · Git · Linux 
 
 ## What I Build
 
